@@ -1,17 +1,31 @@
-# 👋 Hi, I'm Rupam Sadhukhan
+# 👋 Hello, I'm Rupam Sadhukhan
 
-🎓 B.Tech CSE Student @ Jalpaiguri Government Engineering College  
-📊 Data Analyst Intern @ Deloitte | 🏆 SIH 2024 Finalist | 👨‍💻 Full-Stack & AI-ML Enthusiast
+👋 Hello everyone, I’m Rupam Sadhukhan — a passionate technologist and problem solver with expertise in **Machine Learning, Data Analytics, and Full Stack Development**.  
 
-🔗 [Portfolio](https://rupamsadhukhanportfolio.vercel.app) | 📬 rsadhukhan859@gmail.com / grumpytucker03@gmail.com | 📱 +91-8335974336 
+### 📊 AI & Data Science Enthusiast
+I’ve honed my skills through advanced training at **Amazon Machine Learning Summer School**, where I built and deployed scalable ML pipelines for **fraud detection and forecasting**. I’m deeply interested in how **AI can drive real-world impact** across industries.
+
+### 💻 Developer at Heart
+I’ve designed and built several impactful applications including:
+- A **food delivery platform**  
+- An **AI-powered phishing detection system**  
+- **Real-time safety apps** that ranked in the **top 2.4% nationally at Smart India Hackathon 2024**  
+
+My work focuses on **scalable backend systems, intuitive frontends, and data-driven decision making**.
+
+### 🚀 Project Coordination & Leadership
+As a **Training & Placement Coordinator** at my college, I’ve led placement initiatives, collaborated with industry partners, and organized multiple successful drives — strengthening my ability to **blend technology with teamwork and communication**.
 
 ---
 
-## 🧠 About Me
+### 🎓 Education & Roles
+- **B.Tech CSE Student** @ Jalpaiguri Government Engineering College  
+- **Data Analyst Intern** @ Deloitte | 🏆 **SIH 2024 Finalist** | 👨‍💻 **Full-Stack & AI-ML Enthusiast**
 
-- 🎯 Passionate about building accessible tech products and solving real-world problems through software.
-- 🛠️ Strong in backend & frontend development, AI/ML, and data visualization.
-- 🧑‍🏫 Team leader and proactive contributor in national hackathons and tech challenges.
+---
+
+### 🔗 Connect
+[Portfolio](https://rupamsadhukhanportfolio.vercel.app) | 📬 rsadhukhan859@gmail.com / grumpytucker03@gmail.com | 📱 +91-8335974336
 
 ---
 
