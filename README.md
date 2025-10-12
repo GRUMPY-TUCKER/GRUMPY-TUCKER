@@ -19,8 +19,7 @@
 
 ---
 
-### 🧠 **Amazon Machine Learning Summer School Trainee (Top 2.5%)**  
-[![Amazon Logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg)](https://www.amazon.in)  
+### 🧠 **Amazon Machine Learning Summer School Trainee (Top 2.5%)**   
 📍 **Bengaluru, India** | 🗓️ **August 2025 – September 2025**  
 🎯 *Machine Learning • Data Science • Python • Spark*  
 - 🚀 Constructed **10+ supervised ML models** for classification and regression using **Python** and **Spark**, achieving **92% accuracy** and reducing error rates by **18%**.  
@@ -29,7 +28,6 @@
 ---
 
 ### 💻 **Deloitte — Software Development Training**  
-[![Deloitte Logo](https://upload.wikimedia.org/wikipedia/commons/4/4a/Deloitte_logo.svg)](https://www2.deloitte.com/in/en.html)  
 📍 **Kolkata, India** | 🗓️ **April 2025 – July 2025**  
 🛠️ *Java • C • RESTful APIs • Tableau*  
 - ⚙️ Engineered **enterprise-grade applications** using **Java** and **C**, integrating **RESTful APIs** and refactoring backend microservices to enhance scalability and response times by **30%**.  
