@@ -202,10 +202,42 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![Rupam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GRUMPY-TUCKER&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GRUMPY-TUCKER&layout=compact&theme=radical)
+<div align="center">
+
+<!-- Contribution Streak -->
+<a href="https://github.com/GRUMPY-TUCKER">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GRUMPY-TUCKER&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</a>
+
+<!-- Overall Stats -->
+<a href="https://github.com/GRUMPY-TUCKER">
+  <img src="https://github-readme-stats.vercel.app/api?username=GRUMPY-TUCKER&show_icons=true&theme=radical&count_private=true&hide=issues,contribs" alt="Rupam's GitHub Stats"/>
+</a>
+
+<!-- Top Languages -->
+<a href="https://github.com/GRUMPY-TUCKER">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRUMPY-TUCKER&layout=compact&theme=radical&hide=html,css" alt="Top Languages"/>
+</a>
+
+<!-- Activity Graph -->
+<a href="https://github.com/GRUMPY-TUCKER">
+  <img src="https://activity-graph.herokuapp.com/graph?username=GRUMPY-TUCKER&theme=radical&hide_border=false&area=true" alt="GitHub Activity Graph"/>
+</a>
+
+</div>
+
+---
+
+### ✨ Features in this Version:
+- 🔥 **Contribution streak**: shows your daily coding activity visually  
+- 🎨 **Radical theme**: vibrant and stylish colors for all cards  
+- 📊 **Compact top languages**: easy to scan, interactive  
+- 📈 **Activity graph**: shows contribution intensity over the year  
+- ✅ Fully clickable → opens your GitHub profile  
+
+
 
 ---
 
