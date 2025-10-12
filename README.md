@@ -15,12 +15,33 @@
 
 ---
 
-## 💼 Experience
+## 💼 **Experience**
 
-**🔹 Data Analyst Intern — Deloitte**  
-_June 2025 – July 2025, Kolkata_  
-- Performed EDA to identify growth areas & weak segments.  
-- Created Tableau dashboards to visualize trends across products and geographies.
+---
+
+### 🧠 **Amazon Machine Learning Summer School Trainee (Top 2.5%)**  
+[![Amazon Logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg)](https://www.amazon.in)  
+📍 **Bengaluru, India** | 🗓️ **August 2025 – September 2025**  
+🎯 *Machine Learning • Data Science • Python • Spark*  
+- 🚀 Constructed **10+ supervised ML models** for classification and regression using **Python** and **Spark**, achieving **92% accuracy** and reducing error rates by **18%**.  
+- 🤖 Deployed ML solutions for **fraud detection** and **demand forecasting**, improving decision-making efficiency by **25%** and optimizing data processing time by **30%**.  
+
+---
+
+### 💻 **Deloitte — Software Development Training**  
+[![Deloitte Logo](https://upload.wikimedia.org/wikipedia/commons/4/4a/Deloitte_logo.svg)](https://www2.deloitte.com/in/en.html)  
+📍 **Kolkata, India** | 🗓️ **April 2025 – July 2025**  
+🛠️ *Java • C • RESTful APIs • Tableau*  
+- ⚙️ Engineered **enterprise-grade applications** using **Java** and **C**, integrating **RESTful APIs** and refactoring backend microservices to enhance scalability and response times by **30%**.  
+- 📊 Designed **interactive Tableau dashboards** for 20+ executives, automating **KPI tracking** and improving decision-making speed by **25%**, with a **15% boost** in churn-prediction accuracy.  
+
+---
+
+### 🧩 **Pinnacle Labs Pvt. Ltd. — Software Development Intern**    
+📍 **Kolkata, India** | 🗓️ **April 2025 – July 2025**  
+💡 *Spring Boot • ASP.NET • SQL • ETL Workflows*  
+- 📈 Conducted **EDA** on multi-regional sales data, increasing **target efficiency by 15%** and improving campaign insights across markets.  
+- ⚡ Automated **backend modules** using **ASP.NET** and **Spring Boot**, optimizing **ETL workflows** and **SQL queries** to reduce reporting delays by **25%**.  
 
 ---
 
