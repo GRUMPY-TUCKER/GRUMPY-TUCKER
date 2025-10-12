@@ -278,12 +278,49 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rupam-sadhukhan-7058b0240/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/GRUMPY-TUCKER)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/Grumpy_Tucker3/)  
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef)](https://www.codechef.com/users/grumpy_tucker)  
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/Grumpy_Tucker3)  
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/rupamsadhukhan)
+<div align="center">
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/rupam-sadhukhan-7058b0240/" target="_blank" style="text-decoration:none; margin:5px;">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/GRUMPY-TUCKER" target="_blank" style="text-decoration:none; margin:5px;">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<!-- LeetCode -->
+<a href="https://leetcode.com/u/Grumpy_Tucker3/" target="_blank" style="text-decoration:none; margin:5px;">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+
+<!-- CodeChef -->
+<a href="https://www.codechef.com/users/grumpy_tucker" target="_blank" style="text-decoration:none; margin:5px;">
+  <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+
+<!-- Codeforces -->
+<a href="https://codeforces.com/profile/Grumpy_Tucker3" target="_blank" style="text-decoration:none; margin:5px;">
+  <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+
+<!-- Kaggle -->
+<a href="https://www.kaggle.com/rupamsadhukhan" target="_blank" style="text-decoration:none; margin:5px;">
+  <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+
+<!-- Credly -->
+<a href="https://www.credly.com/users/rupam-sadhukhan/badges#credly" target="_blank" style="text-decoration:none; margin:5px;">
+  <img src="https://img.shields.io/badge/-Credly-0056D2?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+</a>
+
+</div>
+
+<p align="center">
+<sub>💡 Hover over each badge to see the platform name and click to visit my profile!</sub>
+</p>
+
 
 ---
 
