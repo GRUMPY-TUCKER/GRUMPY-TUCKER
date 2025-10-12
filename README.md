@@ -55,14 +55,12 @@
         <sub>🏆 <b>SIH Finalist (Top 2.4% of 4.9L+ entries)</b><br>🌊 Real-time Beach Safety Insights</sub>
       </a>
     </td>
-
     <td align="center" width="33%">
       <a href="https://github.com/GRUMPY-TUCKER/NammaFood" target="_blank">
         <img src="https://img.shields.io/badge/Namma%20Food-Full%20Stack%20Delivery%20App-FF6347?style=for-the-badge&logo=springboot&logoColor=white" alt="Namma Food"/><br>
         <sub>🍽️ Spring Boot + React + MongoDB<br>🔐 JWT Auth & CI/CD</sub>
       </a>
     </td>
-
     <td align="center" width="33%">
       <a href="https://github.com/GRUMPY-TUCKER/AIVA-Mock-Interviewer" target="_blank">
         <img src="https://img.shields.io/badge/AIVA%20Mock%20Interviewer-AI%20Project-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="AIVA Mock Interviewer"/><br>
@@ -80,14 +78,12 @@
         <sub>🧠 OpenCV + Deep Learning<br>🔍 Real-Time Face Detection</sub>
       </a>
     </td>
-
     <td align="center" width="33%">
       <a href="https://github.com/GRUMPY-TUCKER/Trip-Planner" target="_blank">
         <img src="https://img.shields.io/badge/AI%20Trip%20Planner-Next.js%20%2B%20Gemini-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Trip Planner"/><br>
         <sub>🧳 AI-Powered Itinerary Builder<br>⚡ C# + ASP.NET + Javascript </sub>
       </a>
     </td>
-
     <td align="center" width="33%">
       <a href="https://github.com/GRUMPY-TUCKER/Phishing_ML_Project" target="_blank">
         <img src="https://img.shields.io/badge/Phishing%20Detection-Machine%20Learning%20Model-DC143C?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Phishing ML Project"/><br>
@@ -98,8 +94,6 @@
 </table>
 
 </div>
-
-
 
 ---
 
