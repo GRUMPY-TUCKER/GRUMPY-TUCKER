@@ -51,43 +51,22 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/GRUMPY-TUCKER/Kshitij" target="_blank">
-        <img src="https://img.shields.io/badge/Kshitij-Android%20App-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Kshitij"/><br>
-        <sub><b>SIH Finalist (Top 2.4% of 4.9L+ entries)</b></sub>
+        <img src="https://img.shields.io/badge/Kshitij-Android%20App-25D366?style=for-the-badge&logo=android&logoColor=white" alt="Kshitij"/><br>
+        <sub>🏆 <b>SIH Finalist (Top 2.4% of 4.9L+ entries)</b><br>🌊 Real-time Beach Safety Insights</sub>
       </a>
     </td>
+
     <td align="center" width="33%">
       <a href="https://github.com/GRUMPY-TUCKER/NammaFood" target="_blank">
-        <img src="https://img.shields.io/badge/Namma%20Food-Full%20Stack%20App-ff4500?style=for-the-badge&logo=springboot&logoColor=white" alt="Namma Food"/><br>
-        <sub><b>Food Delivery Platform</b></sub>
+        <img src="https://img.shields.io/badge/Namma%20Food-Full%20Stack%20Delivery%20App-FF6347?style=for-the-badge&logo=springboot&logoColor=white" alt="Namma Food"/><br>
+        <sub>🍽️ Spring Boot + React + MongoDB<br>🔐 JWT Auth & CI/CD</sub>
       </a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://sorting-visualizer-mu-amber.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Sorting%20Visualizer-Interactive%20Web%20App-0078D7?style=for-the-badge&logo=javascript&logoColor=white" alt="Sorting Visualizer"/><br>
-        <sub><b>Algorithm Visualization</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/GRUMPY-TUCKER/GitHub-Profile-Viewer" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub%20Profile%20Viewer-Web%20App-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile Viewer"/><br>
-        <sub><b>React + API Integration</b></sub>
-      </a>
-    </td>
     <td align="center" width="33%">
       <a href="https://github.com/GRUMPY-TUCKER/AIVA-Mock-Interviewer" target="_blank">
         <img src="https://img.shields.io/badge/AIVA%20Mock%20Interviewer-AI%20Project-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="AIVA Mock Interviewer"/><br>
-        <sub><b>AI-Powered Interview Trainer</b></sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/GRUMPY-TUCKER/RockPaperScissors" target="_blank">
-        <img src="https://img.shields.io/badge/Rock%20Paper%20Scissors-Game-DC143C?style=for-the-badge&logo=javascript&logoColor=white" alt="Rock Paper Scissors"/><br>
-        <sub><b>1v1 Mode Game</b></sub>
+        <sub>🤖 AI-Powered Mock Interviews<br>💬 NLP + ML Integration</sub>
       </a>
     </td>
   </tr>
@@ -96,27 +75,30 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/GRUMPY-TUCKER/Leetcode-Analyzer" target="_blank">
-        <img src="https://img.shields.io/badge/Leetcode%20Analyzer-Visualization%20Tool-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Analyzer"/><br>
-        <sub><b>Track Progress & Charts</b></sub>
+      <a href="https://github.com/GRUMPY-TUCKER/Face_Recognition_ComputerVision" target="_blank">
+        <img src="https://img.shields.io/badge/Face%20Recognition-Computer%20Vision%20App-1E90FF?style=for-the-badge&logo=opencv&logoColor=white" alt="Face Recognition"/><br>
+        <sub>🧠 OpenCV + Deep Learning<br>🔍 Real-Time Face Detection</sub>
       </a>
     </td>
+
     <td align="center" width="33%">
-      <a href="https://github.com/GRUMPY-TUCKER/CRM-Spring" target="_blank">
-        <img src="https://img.shields.io/badge/CRM%20App-Spring%20Framework-28A745?style=for-the-badge&logo=spring&logoColor=white" alt="CRM App"/><br>
-        <sub><b>Java + Spring CRM Project</b></sub>
+      <a href="https://github.com/GRUMPY-TUCKER/Trip-Planner" target="_blank">
+        <img src="https://img.shields.io/badge/AI%20Trip%20Planner-Next.js%20%2B%20Gemini-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Trip Planner"/><br>
+        <sub>🧳 AI-Powered Itinerary Builder<br>⚡ C# + ASP.NET + Javascript </sub>
       </a>
     </td>
+
     <td align="center" width="33%">
-      <a href="https://github.com/GRUMPY-TUCKER/AI-Trip-Planner" target="_blank">
-        <img src="https://img.shields.io/badge/AI%20Trip%20Planner-Next.js%20%2B%20Gemini-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="AI Trip Planner"/><br>
-        <sub><b>AI Itinerary Generator</b></sub>
+      <a href="https://github.com/GRUMPY-TUCKER/Phishing_ML_Project" target="_blank">
+        <img src="https://img.shields.io/badge/Phishing%20Detection-Machine%20Learning%20Model-DC143C?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Phishing ML Project"/><br>
+        <sub>🛡️ Cybersecurity ML Model<br>📊 96% Detection Accuracy</sub>
       </a>
     </td>
   </tr>
 </table>
 
 </div>
+
 
 
 ---
