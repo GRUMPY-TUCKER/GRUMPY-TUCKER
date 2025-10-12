@@ -58,7 +58,7 @@
     <td align="center" width="33%">
       <a href="https://github.com/GRUMPY-TUCKER/NammaFood" target="_blank">
         <img src="https://img.shields.io/badge/Namma%20Food-Full%20Stack%20Delivery%20App-FF6347?style=for-the-badge&logo=springboot&logoColor=white" alt="Namma Food"/><br>
-        <sub>🍽️ Spring Boot + React + MongoDB<br>🔐 JWT Auth & CI/CD</sub>
+        <sub>🍽️ Spring Boot + React + MongoDB + Docker <br>🔐 JWT Auth & CI/CD</sub>
       </a>
     </td>
     <td align="center" width="33%">
@@ -69,7 +69,6 @@
     </td>
   </tr>
 </table>
-
 <table>
   <tr>
     <td align="center" width="33%">
@@ -80,8 +79,8 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/GRUMPY-TUCKER/Trip-Planner" target="_blank">
-        <img src="https://img.shields.io/badge/AI%20Trip%20Planner-Next.js%20%2B%20Gemini-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Trip Planner"/><br>
-        <sub>🧳 AI-Powered Itinerary Builder<br>⚡ C# + ASP.NET + Javascript </sub>
+        <img src="https://img.shields.io/badge/AI%20Trip%20Planner-C%23%20%2B%20ASP.NET-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="Trip Planner"/><br>
+        <sub>🧳 Trip-Planner using C# <br>⚡ C# + ASP.NET + Javascript </sub>
       </a>
     </td>
     <td align="center" width="33%">
