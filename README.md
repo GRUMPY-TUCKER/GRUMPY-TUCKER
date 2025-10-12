@@ -3,7 +3,7 @@
 🎓 B.Tech CSE Student @ Jalpaiguri Government Engineering College  
 📊 Data Analyst Intern @ Deloitte | 🏆 SIH 2024 Finalist | 👨‍💻 Full-Stack & AI-ML Enthusiast
 
-🔗 [Portfolio](https://rupamsadhukhanportfolio.vercel.app) | 📬 rsadhukhan859@gmail.com | 📱 +91-8335974336
+🔗 [Portfolio](https://rupamsadhukhanportfolio.vercel.app) | 📬 rsadhukhan859@gmail.com / grumpytucker03@gmail.com | 📱 +91-8335974336 
 
 ---
 
