@@ -79,7 +79,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/GRUMPY-TUCKER/Trip-Planner" target="_blank">
-        <img src="https://img.shields.io/badge/AI%20Trip%20Planner-C%23%20%2B%20ASP.NET-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="Trip Planner"/><br>
+        <img src="https://img.shields.io/badge/Trip%20Planner-C%23%20%2B%20ASP.NET-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="Trip Planner"/><br>
         <sub>🧳 Trip-Planner using C# <br>⚡ C# + ASP.NET + Javascript </sub>
       </a>
     </td>
