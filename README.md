@@ -151,6 +151,35 @@
 
 ---
 
+### 🧠 ML & AI Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF9900?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/LightGBM-00BFFF?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-77ACF1?style=for-the-badge&logoColor=white" alt="Seaborn"/>
+</p>
+
+---
+
+### 🖼️ Deep Learning / Computer Vision & NLP
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/dlib-000000?style=for-the-badge&logoColor=white" alt="dlib"/>
+  <img src="https://img.shields.io/badge/Face_Recognition-FFA500?style=for-the-badge&logoColor=white" alt="Face Recognition"/>
+  <img src="https://img.shields.io/badge/Transformers-0070CF?style=for-the-badge&logo=transformers&logoColor=white" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LLaMA-A020F0?style=for-the-badge&logo=meta&logoColor=white" alt="LLaMA"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=ai&logoColor=white" alt="RAG"/>
+</p>
+
+---
+
 ### ☁️ **Cloud & DevOps**
 <p align="left">
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
