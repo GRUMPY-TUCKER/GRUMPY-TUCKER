@@ -93,8 +93,8 @@ As a **Training & Placement Coordinator** at my college, I’ve led placement in
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/GRUMPY-TUCKER/Trip-Planner" target="_blank">
-        <img src="https://img.shields.io/badge/Trip%20Planner-C%23%20%2B%20ASP.NET-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="Trip Planner"/><br>
-        <sub>🧳 Trip-Planner using C# <br>⚡ C# + ASP.NET + Javascript </sub>
+        <img src="https://img.shields.io/badge/PlannerNow-C%23%20%2B%20ASP.NET-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="Trip Planner"/><br>
+        <sub>🧳 PlannerNow using C# <br>⚡ C# + ASP.NET + Javascript </sub>
       </a>
     </td>
     <td align="center" width="33%">
