@@ -20,7 +20,7 @@ As a **Training & Placement Coordinator** at my college, I’ve led placement in
 
 ### 🎓 Education & Roles
 - **B.Tech CSE Student** @ Jalpaiguri Government Engineering College  
-- **Data Analyst Intern** @ Deloitte | 🏆 **SIH 2024 Finalist** | 👨‍💻 **Full-Stack & AI-ML Enthusiast**
+- 🏆 **SIH 2024 Finalist** | 👨‍💻 **Full-Stack & AI-ML Enthusiast**
 
 ---
 
