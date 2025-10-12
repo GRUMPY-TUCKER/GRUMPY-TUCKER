@@ -202,40 +202,49 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🚀 GitHub Dashboard
 
 <div align="center">
 
 <table>
   <tr>
     <!-- Overall Stats Card -->
-    <td align="center" width="45%" style="padding:10px;">
-      <a href="https://github.com/GRUMPY-TUCKER" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=GRUMPY-TUCKER&show_icons=true&theme=radical&count_private=true&hide=issues,contribs" alt="Rupam's GitHub Stats" style="border-radius:12px; box-shadow: 0px 5px 20px rgba(0,0,0,0.3);"/>
-        <br><sub>💻 Click to see full stats</sub>
+    <td align="center" width="45%" style="padding:15px;">
+      <a href="https://github.com/GRUMPY-TUCKER" target="_blank" style="text-decoration:none;">
+        <div style="border-radius:15px; padding:10px; background:linear-gradient(135deg,#ff00cc,#3333ff); box-shadow:0 0 25px #ff00cc, 0 0 50px #3333ff; transition:0.3s;">
+          <img src="https://github-readme-stats.vercel.app/api?username=GRUMPY-TUCKER&show_icons=true&theme=radical&count_private=true&hide=issues,contribs" alt="Rupam's GitHub Stats" style="border-radius:12px;"/>
+          <br><sub style="color:white;">💻 Click to view full stats</sub>
+        </div>
       </a>
     </td>
     <!-- Top Languages Card -->
-    <td align="center" width="45%" style="padding:10px;">
-      <a href="https://github.com/GRUMPY-TUCKER" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRUMPY-TUCKER&layout=compact&theme=radical&hide=html,css" alt="Top Languages" style="border-radius:12px; box-shadow: 0px 5px 20px rgba(0,0,0,0.3);"/>
-        <br><sub>🖥️ Languages you code the most</sub>
+    <td align="center" width="45%" style="padding:15px;">
+      <a href="https://github.com/GRUMPY-TUCKER" target="_blank" style="text-decoration:none;">
+        <div style="border-radius:15px; padding:10px; background:linear-gradient(135deg,#00ff99,#0066ff); box-shadow:0 0 25px #00ff99, 0 0 50px #0066ff; transition:0.3s;">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRUMPY-TUCKER&layout=compact&theme=radical" alt="Top Languages" style="border-radius:12px;"/>
+          <br><sub style="color:white;">🖥️ Most used languages</sub>
+        </div>
       </a>
     </td>
   </tr>
   <tr>
     <!-- Contribution Streak Card -->
-    <td align="center" width="45%" style="padding:10px;">
-      <a href="https://github.com/GRUMPY-TUCKER" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GRUMPY-TUCKER&theme=radical&hide_border=false" alt="Contribution Streak" style="border-radius:12px; box-shadow: 0px 5px 20px rgba(0,0,0,0.3);"/>
-        <br><sub>🔥 Daily coding streak</sub>
+    <td align="center" width="45%" style="padding:15px;">
+      <a href="https://github.com/GRUMPY-TUCKER" target="_blank" style="text-decoration:none;">
+        <div style="border-radius:15px; padding:10px; background:linear-gradient(135deg,#ff6600,#ff0066); box-shadow:0 0 25px #ff6600, 0 0 50px #ff0066; transition:0.3s;">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=GRUMPY-TUCKER&theme=radical" alt="Contribution Streak" style="border-radius:12px;"/>
+          <br><sub style="color:white;">🔥 Daily coding streak</sub>
+        </div>
       </a>
     </td>
+
     <!-- Activity Graph Card -->
-    <td align="center" width="45%" style="padding:10px;">
-      <a href="https://github.com/GRUMPY-TUCKER" target="_blank">
-        <img src="https://activity-graph.herokuapp.com/graph?username=GRUMPY-TUCKER&theme=radical&hide_border=false&area=true" alt="GitHub Activity Graph" style="border-radius:12px; box-shadow: 0px 5px 20px rgba(0,0,0,0.3);"/>
-        <br><sub>📈 Contribution intensity over the year</sub>
+    <td align="center" width="45%" style="padding:15px;">
+      <a href="https://github.com/GRUMPY-TUCKER" target="_blank" style="text-decoration:none;">
+        <div style="border-radius:15px; padding:10px; background:linear-gradient(135deg,#33ffcc,#3300ff); box-shadow:0 0 25px #33ffcc, 0 0 50px #3300ff; transition:0.3s;">
+          <img src="https://activity-graph.herokuapp.com/graph?username=GRUMPY-TUCKER&theme=radical&hide_border=false&area=true" alt="GitHub Activity Graph" style="border-radius:12px;"/>
+          <br><sub style="color:white;">📈 Contributions over the year</sub>
+        </div>
       </a>
     </td>
   </tr>
@@ -243,15 +252,6 @@
 
 </div>
 
-
----
-
-### ✨ Features in this Version:
-- 🔥 **Contribution streak**: shows your daily coding activity visually  
-- 🎨 **Radical theme**: vibrant and stylish colors for all cards  
-- 📊 **Compact top languages**: easy to scan, interactive  
-- 📈 **Activity graph**: shows contribution intensity over the year  
-- ✅ Fully clickable → opens your GitHub profile  
 
 
 
