@@ -237,16 +237,6 @@
         </div>
       </a>
     </td>
-
-    <!-- Activity Graph Card -->
-    <td align="center" width="45%" style="padding:15px;">
-      <a href="https://github.com/GRUMPY-TUCKER" target="_blank" style="text-decoration:none;">
-        <div style="border-radius:15px; padding:10px; background:linear-gradient(135deg,#33ffcc,#3300ff); box-shadow:0 0 25px #33ffcc, 0 0 50px #3300ff; transition:0.3s;">
-          <img src="https://activity-graph.herokuapp.com/graph?username=GRUMPY-TUCKER&theme=radical&hide_border=false&area=true" alt="GitHub Activity Graph" style="border-radius:12px;"/>
-          <br><sub style="color:white;">📈 Contributions over the year</sub>
-        </div>
-      </a>
-    </td>
   </tr>
 </table>
 
