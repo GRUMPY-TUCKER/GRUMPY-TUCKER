@@ -338,4 +338,12 @@ As a **Training & Placement Coordinator** at my college, I’ve led placement in
 
 ---
 
+<div align="center">
+
+![Unique Profile Visits](https://komarev.com/ghpvc/?username=GRUMPY-TUCKER&label=Unique%20Profile%20Visits&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
 _“Code to impact, build to empower.”_
