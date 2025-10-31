@@ -110,6 +110,12 @@ As a **Training & Placement Coordinator** at my college, I’ve led placement in
 
 ---
 
+---
+
+[![An image of @yourusername's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@grumpytucker#badges)](https://www.holopin.io/@grumpytucker)
+
+---
+
 ## 🧰 Tech Stack
 
 ---
