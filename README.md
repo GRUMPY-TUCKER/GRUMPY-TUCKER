@@ -110,7 +110,7 @@ As a **Training & Placement Coordinator** at my college, I’ve led placement in
 
 ---
 
-## 💼 **Hactoberfest 2025 Contributions*
+## 💼 **Hacktoberfest 2025 Contributions**
 
 ---
 
