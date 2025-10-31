@@ -110,6 +110,10 @@ As a **Training & Placement Coordinator** at my college, I’ve led placement in
 
 ---
 
+## 💼 **Hactoberfest 2025 Contributions*
+
+---
+
 [![An image of @grumpytucker's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/grumpytucker)](https://holopin.io/@grumpytucker)
 
 ---
