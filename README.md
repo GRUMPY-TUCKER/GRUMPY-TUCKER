@@ -270,8 +270,8 @@ As a **Training & Placement Coordinator** at my college, I’ve led placement in
       </a>
     </td>
   </tr>
-  <tr>
-    <!-- Contribution Streak Card -->
+  <!-- <tr>
+    <!-- Contribution Streak Card 
     <td align="center" width="45%" style="padding:15px;">
       <a href="https://github.com/GRUMPY-TUCKER" target="_blank" style="text-decoration:none;">
         <div style="border-radius:15px; padding:10px; background:linear-gradient(135deg,#ff6600,#ff0066); box-shadow:0 0 25px #ff6600, 0 0 50px #ff0066; transition:0.3s;">
@@ -280,7 +280,7 @@ As a **Training & Placement Coordinator** at my college, I’ve led placement in
         </div>
       </a>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 </div>
