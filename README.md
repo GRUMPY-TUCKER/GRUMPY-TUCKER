@@ -25,7 +25,7 @@ As a **Training & Placement Coordinator** at my college, I’ve led placement in
 ---
 
 ### 🔗 Connect
-[Portfolio](https://rupam-portfolio.vercel.app/portfolio) | 📬 rsadhukhan859@gmail.com / grumpytucker03@gmail.com | 📱 +91-8335974336
+[Portfolio](https://rupam-portfolio.vercel.app/) | 📬 rsadhukhan859@gmail.com / grumpytucker03@gmail.com | 📱 +91-8335974336
 
 ---
 
